@@ -1,0 +1,28 @@
+name: FarmersCut
+favicon: null
+layout_spectrum: 0.2936500208452344
+typography_spectrum: 0.9716630256734788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.06804954051040113
+  lightness: 0.12829757388681173
+  saturation: 0.3243641674052924
+  rhythmicContrast: 0.2564862121362239
+purpose: []
